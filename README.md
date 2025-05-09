@@ -41,8 +41,7 @@ pip install -r data/plugins/astrbot_plugin_voiceprint/requirements.txt
 - 输入：`/活字印刷 你好，世界！`  
 
 ### 注意事项
-- 输入文本支持中文、英文和空格，特殊符号会被忽略。  
-- 音频文件需为 **WAV 格式**，编码建议为 PCM 格式（16 位，单声道，44100Hz）。  
+- 输入文本支持中文  
 - 若某拼音对应的音频文件缺失，插件会跳过该拼音并记录警告日志。
 
 
